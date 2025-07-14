@@ -226,3 +226,31 @@ color: #757575;
   color: #B3B3B3;
 }
 
+/* Ready to focus better Section STYLE */
+
+.focus{
+  max-width: 1140px;
+  background-color: #ffffff;
+  padding: 71px 150px;
+  align-items: center;
+  text-align: center;
+  border-radius: 14px;
+  margin: 0 auto;
+  margin-bottom: 92px;
+
+}
+.focus-header{
+    font-size: 50px;
+    font-weight: bold;
+}
+.focus-description{
+  font-size: 16px;
+  color: #757575;
+}
+.focus-margin{
+  margin-bottom: 20px;
+}
+
+.fucos-img{
+  border-radius: 48px;
+}
