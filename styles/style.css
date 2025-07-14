@@ -17,6 +17,12 @@
 
 
 /* COMMON STYLE */
+
+
+.all-bg-color{
+  background-color: #f5f8ff;
+}
+
 .btn{
   background-color: #4E47FF;
   border: none;
@@ -31,7 +37,9 @@
   color: #252432;
 }
 
-
+.dark-2{
+  color:#2D2432;
+}
 
 
 
@@ -86,4 +94,33 @@ nav ul li{
   font-weight: bold;
   max-width:;
   margin-bottom: 37px;
+}
+
+
+
+/* Action section style */
+.action{
+  max-width:1140px;
+  display: flex;
+  gap: 220px;
+  justify-content: space-between;
+  
+  margin: 0 auto;
+  padding: 50px 142px;
+  margin-top: 116px;
+  margin-bottom: 116px;
+
+}
+.action-title{
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+}
+.action-description{
+  font-size: 24px;
+  color: #2D2432;
+
+}
+.action-img{
+  border-radius: 48px;
 }
