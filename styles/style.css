@@ -254,3 +254,81 @@ color: #757575;
 .fucos-img{
   border-radius: 48px;
 }
+
+
+
+
+
+/* Lets Get In Touch Section & From section style */
+
+.Lets-Get-In-Touch-Section{  
+  max-width: 1140px;
+  margin:0 auto;
+  margin-bottom: 14px;
+  padding-bottom: 71px;
+  padding-top:71px;
+
+}
+.Lets-Get-In-from-content{
+ 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 115px;
+  
+}
+
+.Lets-Get-In-title{
+  font-size:97px ;
+  font-weight: bold;
+}
+
+
+.contact-form {
+  
+  width: 497px;
+  height: 490px;
+}
+
+
+
+
+label {
+  font-size: 18px;
+  font-weight:bold;
+  margin-bottom: 10px;
+  color: #000000;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 32px;
+  border:none ;
+  border-radius: 10px;
+  font-size: 14px;
+  font-size: 20px;
+  margin-bottom: 10px; 
+
+}
+
+
+
+textarea {
+  resize: none;
+  height: 70px;
+  width: 497px;
+
+}
+
+.btn-from {
+  width: 560px;
+  background-color: #4E47FF;
+  color: white;
+  padding: 20px 201px; 
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 10px; 
+  
+  }
